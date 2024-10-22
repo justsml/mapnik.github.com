@@ -11,6 +11,10 @@ The latest release is Mapnik v4.0.2.
 
 Release Date: 21 Augiust 2024
 
+### MacOS Installation
+
+    brew install mapnik
+
 ### Source Installation (using SCons)
 
 To build Mapnik v4.0.2 from source either download the [v4.0.2 tarball](https://github.com/mapnik/mapnik/releases/download/v4.0.2/mapnik-v4.0.2.tar.bz2) or pull directly from github:
